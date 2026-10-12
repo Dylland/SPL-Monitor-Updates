@@ -1,0 +1,12 @@
+{
+  "beta": {
+    "version": "0.9.0-beta.4-dev104",
+    "build": 104,
+    "title": "Beta 4",
+    "notes": "Closed beta. A short tour you can take after setup, and native macOS full screen.",
+    "url": "https://github.com/Dylland/SPL-Monitor-Updates/releases/latest",
+    "min_safe_build": 0,
+    "min_safe_reason": ""
+  },
+  "feedback_endpoint": ""
+}
