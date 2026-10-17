@@ -1,12 +1,14 @@
 {
   "beta": {
-    "version": "0.9.0-beta.4-dev104",
-    "build": 104,
+    "version": "0.9.0-beta.4-dev112",
+    "build": 112,
     "title": "Beta 4",
-    "notes": "Closed beta. A short tour you can take after setup, and native macOS full screen.",
-    "url": "https://github.com/Dylland/SPL-Monitor-Updates/releases/latest",
+    "notes": "Calibrate first: until then readings show dBFS.\nA calibrator on the mic pauses readings and dose on its own (turn off Calibrator pause for sine sweeps).\nSaving a calibration starts the readings over and notes the change in the report.\nReset averages: tap an LAeq number twice.\nRTA range setting, including dBFS to -140.\nMore accurate A and C weighting above 8 kHz.",
+    "url": "https://github.com/Dylland/spl-monitor-updates/releases/tag/b112",
     "min_safe_build": 0,
-    "min_safe_reason": ""
+    "min_safe_reason": "",
+    "dmg": "https://github.com/Dylland/spl-monitor-updates/releases/download/b112/SPL-Monitor-0.9.0-beta.4-dev112-mac-arm64.dmg",
+    "sha256": "d738d57ad4cccaf7c4f6d84e5758cf1fe17e75b9398fa71b1e36b6b5616d29ea"
   },
   "feedback_endpoint": "https://script.google.com/macros/s/AKfycbzYGj6p5bcrXHTGpWTztVHqu-EZt6qqrE0J9ZSdCUUIRLN0YQ61RroEDU0et-mE9k7C/exec"
 }
